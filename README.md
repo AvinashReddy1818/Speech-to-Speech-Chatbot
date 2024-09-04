@@ -1,0 +1,1 @@
+This project is a web application built using Streamlit that allows users to interact with a chatbot using their voice. The chatbot can listen to your spoken input, process it using a Generative AI model from Google, and then respond with a spoken reply. It also supports uploading files, which can be included in the conversation.
