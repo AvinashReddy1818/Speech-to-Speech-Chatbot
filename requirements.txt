@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+streamlit
+pyaudio
+google.generativeai
+textwrap
+os
+python-dotenv
+python-docx
+pandas
+PyPDF2
